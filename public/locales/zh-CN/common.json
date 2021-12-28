@@ -1,0 +1,6 @@
+{
+  "validator": {
+    "required": "这是必须填写的"
+  },
+  "welcome": "欢迎"
+}

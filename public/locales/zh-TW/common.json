@@ -1,0 +1,6 @@
+{
+  "validator": {
+    "required": "這是必須填寫的"
+  },
+  "welcome": "歡迎"
+}

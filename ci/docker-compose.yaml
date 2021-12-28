@@ -1,0 +1,9 @@
+version: '3.8'
+
+services:
+  nextjs-docker:
+    image: localhost:5000/nextjs-docker
+    container_name: nextjs-docker
+    ports:
+      - '3000:3000'
+    environment: {}

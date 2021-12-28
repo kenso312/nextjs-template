@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@100;300;400;500;700;900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-family: Arial, 'Noto Sans SC', sans-serif;
+  transition: all 0.5s ease;
+}
+
+@media (max-width: 34em) {
+  .logo-100th {
+    opacity: 0;
+  }
+}

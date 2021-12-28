@@ -1,0 +1,6 @@
+{
+  "validator": {
+    "required": "This field is required"
+  },
+  "welcome": "Welcome"
+}

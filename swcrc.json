@@ -1,0 +1,26 @@
+{
+  "jsc": {
+    "externalHelpers": false,
+    "keepClassNames": false,
+    "loose": false,
+    "parser": {
+      "decorators": true,
+      "decoratorsBeforeExport": true,
+      "dynamicImport": true,
+      "exportDefaultFrom": true,
+      "exportNamespaceFrom": true,
+      "functionBind": true,
+      "importMeta": true,
+      "privateMethod": true,
+      "syntax": "typescript",
+      "topLevelAwait": true,
+      "tsx": true
+    },
+    "target": "es5",
+    "transform": {
+      "react": {
+        "runtime": "automatic"
+      }
+    }
+  }
+}
